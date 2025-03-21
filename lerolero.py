@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""https://github.com/0-Xerife/lerolero"""
+
 """Gerador de lero-lero
  
  Gera frases de efeito sem significado real."""
